@@ -50,7 +50,13 @@ https://www.bilibili.com/video/av56828976?from=search&seid=12446151549896266549
 
 
 
-+ 给 `TensShinet` 点 follow
++ 给 `TensShinet` 或者 `cuijinyu` 点 follow
+
+
+
+![](./images/cui_follow.png)
+
+
 
 
 
@@ -58,7 +64,11 @@ https://www.bilibili.com/video/av56828976?from=search&seid=12446151549896266549
 
 
 
-+ 给 `TensShinet` 的任意项目点 `start`
++ 给 `TensShinet` 或者 `cuijinyu` 的任意项目点 `start`
+
+
+
+![](./images/cui_start.png)
 
 
 
@@ -78,7 +88,9 @@ https://www.bilibili.com/video/av56828976?from=search&seid=12446151549896266549
 
 + 视频资料：
 
-见群
+
+
+**见群**
 
 
 
