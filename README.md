@@ -42,37 +42,7 @@ https://www.bilibili.com/video/av56828976?from=search&seid=12446151549896266549
 
 
 
-创建一个属于自己的仓库，并把自己所学记录在这一个仓库中。
-
-
-
-选做（**证明你会使用 follow and start**）：
-
-
-
-+ 给 `TensShinet` 或者 `cuijinyu` 点 follow
-
-
-
-![](./images/cui_follow.png)
-
-
-
-
-
-![](./images/follow.png)
-
-
-
-+ 给 `TensShinet` 或者 `cuijinyu` 的任意项目点 `start`
-
-
-
-![](./images/cui_start.png)
-
-
-
-![](./images/start.png)
+创建一个属于自己的仓库，并把自己所学记录在这一个仓库中
 
 
 
